@@ -1,0 +1,10 @@
+C:\Users\Erfan\Documents\Visual Studio 2012\Projects\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.Form1.resources
+C:\Users\Erfan\Documents\Visual Studio 2012\Projects\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.Properties.Resources.resources
+C:\Users\Erfan\Documents\Visual Studio 2012\Projects\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.csproj.GenerateResource.Cache
+C:\Users\Erfan\Documents\Visual Studio 2012\Projects\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.csproj.AssemblyReference.cache
+C:\Users\Erfan\Documents\Visual Studio 2012\Projects\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.csproj.CoreCompileInputs.cache
+C:\Users\Erfan\Documents\Visual Studio 2012\Projects\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\SimpleChornometer.exe.config
+C:\Users\Erfan\Documents\Visual Studio 2012\Projects\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\SimpleChornometer.exe
+C:\Users\Erfan\Documents\Visual Studio 2012\Projects\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\SimpleChornometer.pdb
+C:\Users\Erfan\Documents\Visual Studio 2012\Projects\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\SimpleChornometer.exe
+C:\Users\Erfan\Documents\Visual Studio 2012\Projects\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\SimpleChornometer.pdb
