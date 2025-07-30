@@ -21,3 +21,5 @@ It's great example for beginners who want to understand how to use the **Timer**
  1. ریپازیتوری را کلون کنید (دانلود کنید)
  2.  فایل ``.sln`` در ویژوال استودیو باز کنید
  3. دکمه ``F5`` را فشار دهید یا روی دکمه استارت کلیک کنید تا برنامه اجرا شود.
+# ✔ License
+MIT – Free to use with attribution.
